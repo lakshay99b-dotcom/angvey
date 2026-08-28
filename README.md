@@ -1,2 +1,3 @@
-# angvey
-ANGVEY — AI Partner
+# ANGVEY
+
+Exact original frontend + API proxies.
